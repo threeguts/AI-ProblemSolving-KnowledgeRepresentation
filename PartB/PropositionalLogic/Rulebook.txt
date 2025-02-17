@@ -1,0 +1,9 @@
+#Facts
+A
+B
+
+#Rules
+A,B->C
+A,B->D
+C,D->E
+E->F
