@@ -1,0 +1,5 @@
+Human(Socrates)
+NOT Human(x) OR Mortal(x)
+Hates(John,x)
+NOT Likes(John,x) OR NOT Loves(John,x) OR Hates(John,x)
+NOT Clean(x) OR NOT Kind(x) OR Beautiful(x)
