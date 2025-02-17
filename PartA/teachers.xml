@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<teachers>
+
+    <teacher id="t001" name="Πελτέκης Κωνσταντίνος" maxDailyHours="6" maxWeeklyHours="25">
+        <teaches lessonCode="math1" grade="Α" hours="6"/>
+        <teaches lessonCode="math2" grade="Β" hours="6"/>
+        <teaches lessonCode="math3" grade="Γ" hours="6"/>
+    </teacher>
+
+    <teacher id="t002" name="Παπαδόπουλος Δημήτρης" maxDailyHours="5" maxWeeklyHours="25">
+        <teaches lessonCode="math1" grade="Α" hours="6"/>
+        <teaches lessonCode="math2" grade="Β" hours="6"/>
+        <teaches lessonCode="math3" grade="Γ" hours="6"/>
+    </teacher>
+
+
+    <teacher id="t003" name="Κωνσταντίνου Ελένη" maxDailyHours="6" maxWeeklyHours="30">
+        <teaches lessonCode="phy1" grade="Α" />
+        <teaches lessonCode="phy2" grade="Β" />
+        <teaches lessonCode="phy3" grade="Γ" />
+        <teaches lessonCode="chem3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t004" name="Αλεξίου Μαρία" maxDailyHours="6" maxWeeklyHours="30">
+        <teaches lessonCode="ek11" grade="Α" />
+        <teaches lessonCode="ek21" grade="Β" />
+        <teaches lessonCode="ek31" grade="Γ" />
+        <teaches lessonCode="ek12" grade="Α" />
+        <teaches lessonCode="ek22" grade="Β" />
+        <teaches lessonCode="ek32" grade="Γ" />
+    </teacher>
+
+    <teacher id="t005" name="Μιχαηλίδης Νίκος" maxDailyHours="6" maxWeeklyHours="25">
+        <teaches lessonCode="ek11" grade="Α" />
+        <teaches lessonCode="ek21" grade="Β" />
+        <teaches lessonCode="ek31" grade="Γ" />
+        <teaches lessonCode="ek12" grade="Α" />
+        <teaches lessonCode="ek22" grade="Β" />
+        <teaches lessonCode="ek32" grade="Γ" />
+    </teacher>
+
+    <teacher id="t006" name="Παπαδοπούλου Μαρία" maxDailyHours="6" maxWeeklyHours="30">
+        <teaches lessonCode="arxaia1" grade="Α" />
+        <teaches lessonCode="arxaia2" grade="Β" />
+        <teaches lessonCode="arxaia3" grade="Γ" />
+        <teaches lessonCode="ist1" grade="Α" />
+        <teaches lessonCode="ist2" grade="Β" />
+        <teaches lessonCode="ist3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t007" name="Διαμαντή Αικατερίνη" maxDailyHours="6" maxWeeklyHours="30">
+        <teaches lessonCode="arxaia1" grade="Α" />
+        <teaches lessonCode="arxaia2" grade="Β" />
+        <teaches lessonCode="arxaia3" grade="Γ" />
+        <teaches lessonCode="ist1" grade="Α" />
+        <teaches lessonCode="ist2" grade="Β" />
+        <teaches lessonCode="ist3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t008" name="Νάκου Ευαγγελία" maxDailyHours="6" maxWeeklyHours="20">
+        <teaches lessonCode="bio1" grade="Α" />
+        <teaches lessonCode="bio2" grade="Β" />
+        <teaches lessonCode="bio3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t009" name="Δημογέροντα Χρύσα" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="eng1" grade="Α" />
+        <teaches lessonCode="eng2" grade="Β" />
+        <teaches lessonCode="eng3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t010" name="Πιπλίδης Δημήτρης" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="gym1" grade="Α" hours="6"/>
+        <teaches lessonCode="gym2" grade="Β" hours="6"/>
+        <teaches lessonCode="gym3" grade="Γ" hours="6"/>
+    </teacher>
+
+    <teacher id="t011" name="Πενέτης Γεώργιος" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="tech1" grade="Α" />
+        <teaches lessonCode="tech2" grade="Β" />
+    </teacher>
+
+    <teacher id="t012" name="Καραγιάννης Αθανάσιος" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="art1" grade="Α" />
+        <teaches lessonCode="art2" grade="Β" />
+    </teacher>
+
+    <teacher id="t013" name="Χατζηγιάννης Νίκος" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="music1" grade="Α" />
+        <teaches lessonCode="music2" grade="Β" />
+    </teacher>
+
+    <teacher id="t014" name="Μυλωνόπουλος Μάκης" maxDailyHours="6" maxWeeklyHours="18"> 
+        <teaches lessonCode="cs1" grade="Α" />
+        <teaches lessonCode="cs2" grade="Β" />
+        <teaches lessonCode="cs3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t015" name="Μαργαρίτη Ελένη" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="god1" grade="Α" />
+        <teaches lessonCode="god2" grade="Β" />
+        <teaches lessonCode="god3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t016" name="Εύα Λαζανά" maxDailyHours="4" maxWeeklyHours="18">
+        <teaches lessonCode="math1" grade="Α" />
+        <teaches lessonCode="math2" grade="Β" />
+        <teaches lessonCode="god3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t017" name="Θεόδωρος Τσιρικόλιας" maxDailyHours="6" maxWeeklyHours="30">
+        <teaches lessonCode="phy1" grade="Α" />
+        <teaches lessonCode="phy2" grade="Β" />
+        <teaches lessonCode="phy3" grade="Γ" />
+        <teaches lessonCode="chem3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t018" name="Βασίλης Καρράς" maxDailyHours="6" maxWeeklyHours="30">
+        <teaches lessonCode="bio1" grade="Α" />
+        <teaches lessonCode="bio2" grade="Β" />
+        <teaches lessonCode="chem2" grade="Β" />
+        <teaches lessonCode="chem3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t019" name="Γεώργιος Παπαθεοδώρου" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="gym1" grade="Α" />
+        <teaches lessonCode="gym2" grade="Β" />
+        <teaches lessonCode="gym3" grade="Γ" />
+    </teacher>
+
+    <teacher id="t020" name="Αλεξάνδρα Τσιτσοπούλου" maxDailyHours="6" maxWeeklyHours="18">
+        <teaches lessonCode="oik1" grade="Α" />
+        <teaches lessonCode="oik2" grade="Β" />
+        <teaches lessonCode="oik3" grade="Γ"/>
+    </teacher>
+
+    <teacher id="t021" name="Μαρκέλος Κοκκονιάς" maxDailyHours="6" maxWeeklyHours="9">
+        <teaches lessonCode="eng1" grade="Α" />
+        <teaches lessonCode="eng2" grade="Β" />
+        <teaches lessonCode="eng3" grade="Γ" />
+    </teacher>
+
+</teachers>

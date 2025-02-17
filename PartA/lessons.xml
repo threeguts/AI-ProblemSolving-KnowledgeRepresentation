@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lessons>
+    <grade name = "Α">
+        <lesson code = "math1" name = "Μαθηματικά" hours = "4" />
+        <lesson code = "phy1" name = "Φυσική" hours = "2" />
+        <lesson code = "bio1" name = "Βιολογία" hours = "1" />
+        <lesson code = "cs1" name = "Πληροφορική" hours = "1" />
+        <lesson code = "ek11" name = "Νέα Ελληνικά (Έκθεση)" hours = "3" />
+        <lesson code = "ek12" name = "Νέα Ελληνικά (Κείμενα)" hours = "2" />
+        <lesson code = "arxaia1" name = "Αρχαία Ελληνικά" hours = "2" />
+        <lesson code = "ist1" name = "Ιστορία" hours = "2" />
+        <lesson code = "god1" name = "Θρησκευτικά" hours = "2" />
+        <lesson code = "geo1" name = "Γεωγραφία" hours = "2" />
+        <lesson code = "eng1" name = "Αγγλικά" hours = "3" />
+        <lesson code = "oik1" name = "Οικιακή Οικονομία" hours = "1" />
+        <lesson code = "gym1" name = "Φυσική Αγωγή" hours = "2" />
+        <lesson code = "tech1" name = "Τεχνολογία" hours = "1" />
+        <lesson code = "art1" name = "Καλλιτεχνικά" hours = "1" />
+        <lesson code = "music1" name = "Μουσική" hours = "1" />
+    </grade>
+
+    <grade name = "Β">
+        <lesson code = "math2" name = "Μαθηματικά" hours = "4" />
+        <lesson code = "phy2" name = "Φυσική" hours = "3" />
+        <lesson code = "chem2" name = "Χημεία" hours = "1" />
+        <lesson code = "bio2" name = "Βιολογία" hours = "1" />
+        <lesson code = "cs2" name = "Πληροφορική" hours = "1" />
+        <lesson code = "ek21" name = "Νέα Ελληνικά (Έκθεση)" hours = "3" />
+        <lesson code = "ek22" name = "Νέα Ελληνικά (Κείμενα)" hours = "2" />
+        <lesson code = "arxaia2" name = "Αρχαία Ελληνικά" hours = "2" />
+        <lesson code = "ist2" name = "Ιστορία" hours = "2" />
+        <lesson code = "god2" name = "Θρησκευτικά" hours = "2" />
+        <lesson code = "geo2" name = "Γεωγραφία" hours = "2" />
+        <lesson code = "eng2" name = "Αγγλικά" hours = "3" />
+        <lesson code = "oik2" name = "Οικιακή Οικονομία" hours = "1" />
+        <lesson code = "gym2" name = "Φυσική Αγωγή" hours = "2" />
+        <lesson code = "tech2" name = "Τεχνολογία" hours = "1" />
+        <lesson code = "art2" name = "Καλλιτεχνικά" hours = "1" />
+        <lesson code = "music2" name = "Μουσική" hours = "1" />
+    </grade>
+
+    <grade name = "Γ">
+        <lesson code = "math3" name = "Μαθηματικά" hours = "4" />
+        <lesson code = "phy3" name = "Φυσική" hours = "3" />
+        <lesson code = "chem3" name = "Χημεία" hours = "2" />
+        <lesson code = "bio3" name = "Βιολογία" hours = "2" />
+        <lesson code = "cs3" name = "Πληροφορική" hours = "1" />
+        <lesson code = "ek31" name = "Νέα Ελληνικά (Έκθεση)" hours = "3" />
+        <lesson code = "ek32" name = "Νέα Ελληνικά (Κείμενα)" hours = "2" />
+        <lesson code = "arxaia3" name = "Αρχαία Ελληνικά" hours = "2" />
+        <lesson code = "ist3" name = "Ιστορία" hours = "2" />
+        <lesson code = "god3" name = "Θρησκευτικά" hours = "1" />
+        <lesson code = "eng3" name = "Αγγλικά" hours = "3" />
+        <lesson code = "oik3" name = "Κοινωνική και Πολιτική Αγωγή" hours = "1" />
+        <lesson code = "gym3" name = "Φυσική Αγωγή" hours = "2" />
+    </grade>
+</lessons>
